@@ -1,4 +1,0 @@
-server:
-  port: 9600
-spring:
-  name: config-one
