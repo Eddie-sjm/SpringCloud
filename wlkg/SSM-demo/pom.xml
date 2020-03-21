@@ -63,7 +63,7 @@
         <dependency>
             <groupId>commons-fileupload</groupId>
             <artifactId>commons-fileupload</artifactId>
-            <version>1.3.1</version>
+            <version>1.3.3</version>
         </dependency>
 
         <!--jackson依赖-->
@@ -257,7 +257,7 @@
         <dependency>
             <groupId>commons-fileupload</groupId>
             <artifactId>commons-fileupload</artifactId>
-            <version>1.3.1</version>
+            <version>1.3.3</version>
         </dependency>
 
         <!-- quartz任务调度框架 需要spring的spring-context-support -->
